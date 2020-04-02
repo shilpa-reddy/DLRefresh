@@ -1,0 +1,6 @@
+---
+- name: DL refresh
+  hosts: windowservers
+  tasks:
+    - name: DL check
+    
