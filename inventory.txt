@@ -1,5 +1,0 @@
-[windowservers]
-toolboxuat.cognizant.com ansible_host=10.232.209.53 ansible_connection=winrm ansible_user=testuser ansible_password="Qo:3c6y_" ansible_port=5985 ansible_winrm_server_cert_validation=ignore
-
-[linuxservers]
-CPCINCHPV003914 ansible_host=10.142.198.29 ansible_connection=ssh ansible_user=sautotest ansible_ssh_pass=sautotest
